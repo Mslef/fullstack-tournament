@@ -15,6 +15,6 @@ To run the database and tournament_test.py files from a virtual machine on the c
 
 You should be able to see all success messages from the tests if they are executed correctly.
 
-#How to quit the VM
+##How to quit the VM
 
 To quit the VM, simply enter the command sudo shutdown now. You will be taken back to the root folder. To close vagrant, enter the command vagrant halt.
