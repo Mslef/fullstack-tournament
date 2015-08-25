@@ -1,5 +1,7 @@
 #Tournament database
 
+Simple tournament brackets app, that can allows user to see what bracket a player is at.
+
 ##How to run
 
 To run the database and tournament_test.py files from a virtual machine on the command line, follow these steps:
